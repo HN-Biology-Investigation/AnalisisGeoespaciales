@@ -1,0 +1,78 @@
+---
+title: "Curso Analisis geoespaciales"
+author: "David Murillo"
+format: html
+editor: visual
+---
+
+[<img src="HN Cursos publicidad/HN Biology Inv Circle.jpg" align="right" width="100"/>](https://www.hnbiology.org/)
+
+El curso "Análisis Geoespaciales con RStudio" es una oportunidad emocionante para explorar el poder de RStudio en el contexto del análisis de datos geoespaciales. A lo largo de este curso, te sumergirás en técnicas de análisis espacial utilizando herramientas disponibles en RStudio. Desde la manipulación de datos espaciales hasta la creación de visualizaciones. ¡Prepárate para expandir tus conocimientos y dominar el análisis geoespacial con RStudio!
+
+# Inscripciones
+
+<!-- Start Badges -->
+
+| [Whapsapp](http://wa.me/+50499549551) \| [Facebook](https://www.facebook.com/Hn.Biology.Investigation?mibextid=ZbWKwL) \| [email](admi@hnbiology.org) \| [website](https://www.hnbiology.org/) \|
+
+<!-- End Badges -->
+
+# Costos de Inscripción:
+
+-   Inversión en USD (Dólares estadounidenses): 35 USD.
+
+-   Inversión para hondureños: 800 Lempiras hondureños.
+
+# Métodos de Pago:
+
+-   Pago Internacional por [PayPal](https://www.paypal.com/paypalme/hnbiologyinv) .
+
+-   Pago para hondureños por Banco Atlántida, BANPAÍS y BAC Honduras: Por favor, solicita la información pertinente.
+
+-   Otras formas de pago:
+
+[MoneyGram](https://www.moneygram.com/mgo/us/es/send/como-enviar-dinero/enviar-en-linea/).
+
+[DineroExpress](https://www.dineroexpress.com/WebPortalDexDigital/)
+
+# Modalidades del Curso:
+
+-   Modalidad Asincrónica: Descripción: Tendrás acceso a nuestra plataforma educativa donde encontrarás tutoriales detallados para cada tema del curso. Además, tendrás acceso a todos los materiales y recursos necesarios para tu aprendizaje. Incluye tres asesorías individuales de una hora cada una con nuestros asesores.
+
+-   Modalidad en Vivo: Descripción: Durante el año, ofreceremos 3 o 4 cursos en vivo a través de la plataforma Zoom. Estos cursos serán impartidos en tiempo real y también tendrás acceso a la plataforma educativa con las grabaciones de cada clase y todos los recursos necesarios para tu aprendizaje.
+
+# Certificación:
+
+-   Descripción: Al finalizar exitosamente el curso y completar las actividades asignadas, recibirás un certificado emitido por nuestra institución. Todas las actividades serán entregadas y revisadas por nuestros instructores para garantizar la calidad del aprendizaje y la validez del certificado.
+
+# Descripción del Curso:
+
+En este curso de Análisis geoespaciales, exploraremos el potencial de R y RStudio, herramientas imprescindibles para el análisis y visualización de datos espaciales. Aprenderemos a trabajar con shapefiles y rasters, dominando técnicas de manipulación y visualización esenciales para el análisis del paisaje. 
+
+# Temas que Cubriremos:
+
+[Introducción a R y RStudio](Introduccion.html).
+
+[Importación de datos geoespaciales](EstadisticaDescriptiva.html)
+
+[Manipulación de datos espaciales](Hipotesis.html)
+
+[Análisis de datos geoespaciales](Anova.html)
+
+[Introducción a modelos de distribución potenciales](ChiCuadrado.html)
+
+[Introducción a landscapemetrics](Correlacion.html)
+
+# Metodología de Enseñanza:
+
+Nuestro enfoque educativo se basa en la práctica activa y el aprendizaje interactivo. A lo largo del curso, trabajarás en ejercicios prácticos y proyectos que te permitirán aplicar directamente lo que aprendas. Además, tendrás acceso a recursos complementarios y a un equipo de instructores dedicados que te brindarán apoyo individualizado cuando sea requerido.
+
+# Requisitos Previos:
+
+No se requieren conocimientos previos de R ni de programación, pero se recomienda haber completado el curso de [nivel básico](https://hn-biology-investigation.github.io/TemarioCursoAnalisisEstadisticoBasico/) o uno similar.
+
+Este curso intermedio está especialmente diseñado para aquellos interesados en ampliar sus habilidades en el análisis geoespaciales a través de herramientas estadísticas avanzadas utilizando R y RStudio. Abordaremos técnicas y conceptos más profundos que te permitirán explorar y comprender de manera más completa la complejidad de los datos geoespaciales. 
+
+¡Te invitamos a unirte a nosotros en este emocionante viaje hacia la estadística avanzada y el análisis del paisaje!
+
+![HN Biology Investigation Academy](HN%20Cursos%20publicidad/HN%20Biology%20Inv%20large.jpg)
